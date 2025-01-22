@@ -11,3 +11,5 @@
 ## Fridgy - Expiration Tracking App (Solo)
 
 ## AI Glaucoma Detector (Solo)
+
+## Folder Organizer Script (Solo)
