@@ -30,8 +30,8 @@
 - Completed the research and applied for publication in the 2023 edition of the Pubmed indexed Indian Journal of Ophthamology
 - Participated in countless back-and-forth discussions with specialists in machine learning and ophthamology to improve the credibility of the paper and achieve PubMed index quality
 - Published the paper in the 2023 PubMed Indexed Indian Journal of Ophthamology
-PubMed Article: [https://pubmed.ncbi.nlm.nih.gov/38099383/](url)
-Full Paper: [https://www.researchgate.net/publication/376573311_Artificial_intelligence_in_glaucoma_detection_using_color_fundus_photographs](url)
+- PubMed Article: [https://pubmed.ncbi.nlm.nih.gov/38099383/](url)
+- Full Paper:[https://www.researchgate.net/publication/376573311_Artificial_intelligence_in_glaucoma_detection_using_color_fundus_photographs](url)
 
 ## Zubin's Dungeon Quest Game (Solo)
 
