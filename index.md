@@ -30,10 +30,14 @@
 - Completed the research and applied for publication in the 2023 edition of the Pubmed indexed Indian Journal of Ophthamology
 - Participated in countless back-and-forth discussions with specialists in machine learning and ophthamology to improve the credibility of the paper and achieve PubMed index quality
 - Published the paper in the 2023 PubMed Indexed Indian Journal of Ophthamology
-- PubMed Article: [https://pubmed.ncbi.nlm.nih.gov/38099383/](url)
-- Full Paper: [https://www.researchgate.net/publication/376573311](url)
 
 ## Zubin's Dungeon Quest Game (Solo)
+- Developed an educational video game from scratch after teaching myself how to navigate GameMakerStudio 2 and their custom GML language
+- Designed custom avatars as well as utilized online open source designs to help bring the game to life
+- Integrated my fun top-down rogue-like game with educational content in D2L format to help improve engagement and make learning more fun
+- Utilized csv files in D2L format to make integration easier and allow select users to modify questions and change the content displayed
+- Submitted the game in the 2021 Congressional App Challenge and won 1st place
+- Increased participation in the competition by students from my high school the following year by 500%
 
 ## Folder Organizer Script (Solo)
 - Python script I developed that sorts files automatically based on file type
