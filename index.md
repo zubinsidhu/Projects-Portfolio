@@ -22,7 +22,16 @@
 - Notifies users of food about to expire or food that has been in the fridge for a while to help users finish food rather than wasting it
 - Developed the idea after finding myself wasting food in university and has helped me reduce food waste entirely
 
-## AI Glaucoma Detector (Solo)
+## Research Lead: AI Glaucoma Detector (Solo)
+- Employed a Convolutional Neural Networks with ResNet-50 V2 Layers as the basis for an image recognition AI
+- Trained the model over the course of months on ~1000 anonymous fundus photographs provided by research mentor divided between normal eyes and glaucoma eyes
+- Achieved 81.3% accuracy with the model (83% sensitivity, 80% specificity)
+- Located the main inaccuracies coming from the model's simplicity - plan to advance this research by building a different model to improve accuracy on edge cases as well as create a model that can detect all 3 different stages of glaucoma to improve preventative measures
+- Completed the research and applied for publication in the 2023 edition of the Pubmed indexed Indian Journal of Ophthamology
+- Participated in countless back-and-forth discussions with specialists in machine learning and ophthamology to improve the credibility of the paper and achieve PubMed index quality
+- Published the paper in the 2023 PubMed Indexed Indian Journal of Ophthamology
+PubMed Article: [https://pubmed.ncbi.nlm.nih.gov/38099383/](url)
+Full Paper: [https://www.researchgate.net/publication/376573311_Artificial_intelligence_in_glaucoma_detection_using_color_fundus_photographs](url)
 
 ## Zubin's Dungeon Quest Game (Solo)
 
