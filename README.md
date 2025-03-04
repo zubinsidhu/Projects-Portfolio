@@ -1,2 +1,2 @@
 # Projects-Portfolio
-Website for all my major projects
+Website highlighting some of my major projects
